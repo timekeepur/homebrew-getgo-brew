@@ -9,8 +9,8 @@ brew install --cask uzhussain/getgo-brew/get-go
 Current cask source:
 
 - URL: `https://downloads.getgo.sh/Get-Go-macOS.zip`
-- SHA256: `cea70eb73e63df15be5166f504a4b98460c379a42c49c93f4bf1d1e167293f9b`
-- Version: `1.0.0`
+- SHA256: `95a240777dbfcb9ace894691c9ad8c87dcde7e79bcad1f467137b3333311582c`
+- Version: `1.0.2`
 
 Publish checklist:
 

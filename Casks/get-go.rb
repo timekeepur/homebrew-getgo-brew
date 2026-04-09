@@ -1,6 +1,6 @@
 cask "get-go" do
-  version "1.0.0"
-  sha256 "cea70eb73e63df15be5166f504a4b98460c379a42c49c93f4bf1d1e167293f9b"
+  version "1.0.2"
+  sha256 "95a240777dbfcb9ace894691c9ad8c87dcde7e79bcad1f467137b3333311582c"
 
   url "https://downloads.getgo.sh/Get-Go-macOS.zip"
   name "Get-Go"
