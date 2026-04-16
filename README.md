@@ -3,7 +3,7 @@
 Install command:
 
 ```bash
-brew install --cask uzhussain/getgo-brew/get-go
+brew install --cask timekeepur/getgo-brew/get-go
 ```
 
 Current cask source:
@@ -14,6 +14,6 @@ Current cask source:
 
 Publish checklist:
 
-- publish this repository as the standard tap repo `uzhussain/homebrew-getgo-brew`
+- publish this repository as the standard tap repo `timekeepur/homebrew-getgo-brew`
 - confirm `downloads.getgo.sh/Get-Go-macOS.zip` stays mapped to the current release artifact
 - rerun the release upload script and update the cask checksum on each new release
